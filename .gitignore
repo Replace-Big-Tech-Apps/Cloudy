@@ -1,0 +1,7 @@
+.build/
+.swiftpm/
+Cloudy.app/
+*.iconset/
+*.dmg
+*.dmg.sha256
+.DS_Store
